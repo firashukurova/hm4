@@ -1,1 +1,2 @@
-# hm4
+## docker-compose up 
+** docker-compose build 
